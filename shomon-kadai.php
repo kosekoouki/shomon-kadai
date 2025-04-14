@@ -53,7 +53,7 @@
     <caption>果物の価格比較 (15個分) </caption>
     <thead>
         <tr>
-            <th>項目</th>
+            <th>果物</th>
             <th>桃</th>
             <th>イチゴ</th>
         </tr>
